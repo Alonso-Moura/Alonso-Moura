@@ -1,3 +1,5 @@
+### Bem-vindo(a) ao perfil do Alonso. :) 
+
 <div>
   <a href="https://github.com/Alonso-Moura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alonso-Moura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

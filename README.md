@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao perfil do Alonso :) 
+### Bem-vindo(a) ao meu perfil. :smile:
 
 <div>
   <a href="https://github.com/Alonso-Moura">
